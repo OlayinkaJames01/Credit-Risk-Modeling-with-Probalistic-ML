@@ -21,7 +21,7 @@ This project applies machine learning to predict customer credit defaults for **
   - Feature engineering  
   - Model training & evaluation (Logistic Regression, XGBoost, LightGBM)
   - Hyperparameter tunning (Stratified K-Fold) 
-  - Probabilistic classification (Predict Proba) 
+  - Probabilistic classification 
 
 ## ✅ Outcomes
 
