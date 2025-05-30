@@ -28,4 +28,3 @@ The model provides a robust tool for classifying customers likely to default, im
 
 ---
 **Challenge Link:** [Zindi - DSN AI Bootcamp Hackathon](https://zindi.africa/hackathons/dsn-ai-bootcamp-qualification-hackathon)  
-**Author:** [James Olayinka]
