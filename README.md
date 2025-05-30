@@ -19,8 +19,9 @@ This project applies machine learning to predict customer credit defaults for **
 - **ML Tasks:**  
   - Data preprocessing & cleaning  
   - Feature engineering  
-  - Model training & evaluation (XGBoost, LightGBM)  
-  - Binary classification metrics: AUC, Accuracy, Confusion Matrix
+  - Model training & evaluation (Logistic Regression, XGBoost, LightGBM)
+  - Hyperparameter tunning (Stratified K-Fold) 
+  - Probabilistic classification (Predict Proba) 
 
 ## ✅ Outcomes
 
