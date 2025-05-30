@@ -6,7 +6,7 @@ This project applies machine learning to predict customer credit defaults for **
 
 ## 📊 Dataset Summary
 
-- **Source:** Zindi Africa - DSN AI Bootcamp Qualification Hackathon  
+- **Source:** Zindi Africa - Data Science Nigeria AI Bootcamp Qualification Hackathon  
 - **Train Samples:** 56,000  
 - **Test Samples:** 24,000  
 - **Target Variable:** `default_status` (1 = Defaulted, 0 = Non-Default)  
